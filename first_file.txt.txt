@@ -1,4 +1,4 @@
    this is my first file
 
-hallo  got ..
+hallo  got 
 halloooo inn my repository
